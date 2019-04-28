@@ -1,8 +1,8 @@
 name: ios_video_convert
 description: mov to mp4
-version: 0.0.1
-author:
-homepage:
+version: 0.1.0
+author: GuYue <mflaugh@163.com>
+homepage: https://github.com/mflaugh/flutter_ios_video_convert
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
