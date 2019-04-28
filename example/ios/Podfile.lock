@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - ios_video_convert (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - ios_video_convert (from `.symlinks/plugins/ios_video_convert/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  ios_video_convert:
+    :path: ".symlinks/plugins/ios_video_convert/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 9d0fac939486c9aba2809b7982dfdbb47a7b0296
+  ios_video_convert: d58f07619a56925189c0cc16957d00dc0a0b01c1
+
+PODFILE CHECKSUM: aff02bfeed411c636180d6812254b2daeea14d09
+
+COCOAPODS: 1.5.3
